@@ -1,3 +1,6 @@
+import os
+os.system("cls")
+
 def tambah(x, y):
     return x + y
 
