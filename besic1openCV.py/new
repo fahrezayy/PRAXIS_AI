@@ -1,0 +1,8 @@
+#accessing opencv module
+import cv2
+
+#load the image 
+image = cv2.imread("D:\\PRAXIS_AI\\ed3c5668f6c93125b59254f476c259a5.jpgudahbang.jpg")
+
+cv2.imshow("bangudah",image)
+cv2.waitkey(0)

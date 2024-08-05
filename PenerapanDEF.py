@@ -54,3 +54,4 @@ angka = -5
 # Panggil fungsi dan cetak hasilnya
 hasil = tentukan_jenis_bilangan(angka)
 print(f"Angka {angka} adalah bilangan {hasil}.")
+
