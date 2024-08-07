@@ -1,9 +1,12 @@
+import os
+os.system("cls")
+
 #accessing opencv module
 import cv2
 import imutils
 
 #load the image 
-image = cv2.imread("D:\\PRAXIS_AI\\ed3c5668f6c93125b59254f476c259a5.jpg")
+image = cv2.imread("C:\\PRAXIS_AI\\02-02-Detection\\images\\ed3c5668f6c93125b59254f476c259a5.jpg")
 
 #check image size 
 height,width,depth =image.shape
